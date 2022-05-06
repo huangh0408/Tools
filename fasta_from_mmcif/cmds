@@ -1,0 +1,1 @@
+python parse.py 100d pdb_mmcif/mmcif_files fastas
